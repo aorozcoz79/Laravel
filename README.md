@@ -1,4 +1,4 @@
-Laravel
+Abrahamzick Orozco Repo Laravel
 ===
 
 A simple Blog application for [How Framework](http://github.com/howframework).
